@@ -4,6 +4,10 @@ body {
 .img {
   text-align: center;
 }
+.img.sp {
+  margin: auto;
+  max-width: 563px;
+}
 img {
   width: 100%;
   max-width: 1512px;
